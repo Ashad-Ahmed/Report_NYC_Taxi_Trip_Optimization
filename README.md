@@ -35,5 +35,5 @@ The dataset contains detailed records of taxi rides in NYC, including pickup/dro
 
 ## 📂 Repository Contents
 
-- `notebook.ipynb` – Full EDA with visualizations and commentary
-- `final_report.pdf` – Summary of insights and findings
+- `EDA_Assg_NYC_Taxi_Starter_Ashad_Ahmed.ipynb` – Full EDA with visualizations and commentary
+- `Report_NYC_Taxi_Operations_Starter_Ashad_Ahmed.pdf` – Summary of insights and findings
